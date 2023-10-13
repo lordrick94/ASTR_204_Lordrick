@@ -1,3 +1,7 @@
 #All packaging files
 *.ipynb_checkpoints
 *.egg-info
+
+#Other git directories
+ASTR204_2023
+
